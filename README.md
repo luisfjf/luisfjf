@@ -1,16 +1,11 @@
 # ¡Hola! Soy Luis Jimenez (LJIM) 👋
 
-<a href="https://www.linkedin.com/in/luis-jimenez-768554189/">
-  <img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
 ---
 
-### 👨‍💻 Sobre Mí
-
+### 👨‍💻 Sobre Mí <a href="https://www.linkedin.com/in/luis-jimenez-768554189/"> <img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
 Soy un **Desarrollador Full-Stack** con más de 10 años de experiencia creando soluciones de software robustas y escalables. Me apasiona el aprendizaje continuo y disfruto explorando nuevas tecnologías para mantenerme a la vanguardia del desarrollo.
 
-- 🔭 Actualmente estoy trabajando en Banco de Desarrollo Rural (Guatemala).
+- 🔭 Actualmente estoy trabajando como analista de sistemas en <a href="https://www.banrural.com.gt/"> Banco de Desarrollo Rural </a> Guatemala  .
 - 🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías.
 - 👯 Busco colaborar en proyectos innovadores de código abierto.
 - 📫 Cómo contactarme: fernandojf90@gmail.com
@@ -52,8 +47,6 @@ Tengo experiencia trabajando con una amplia gama de tecnologías, incluyendo:
 ---
 
 ### 📊 Mis Estadísticas en GitHub
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisfjf&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfjf&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
